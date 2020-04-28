@@ -1,7 +1,8 @@
 ### ToDo
 
-* Revisar acentos de la redaccion
-* Agregar funcion de descarga del CV en PDF
+* Agregar función de descarga del CV en PDF
+* Actualizar plantilla
+* Agregar soporte multiidioma
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
